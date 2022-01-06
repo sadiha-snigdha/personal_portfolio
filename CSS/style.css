@@ -95,6 +95,10 @@ body {
 }
 
 .develop_without_limit {
+    background-image: url('./images/shapes/shape-1.png');
+    background-repeat: no-repeat;
+    background-size: 350px 350px;
+    background-position: 5px;
     padding: 5% 10%;
 }
 
@@ -111,6 +115,13 @@ body {
     font-size: 40px;
 }
 
+.know_our_global_community {
+    height: 800px;
+    background-image: url('./images/shapes/shape-1.png');
+    background-repeat: no-repeat;
+    background-size: 350px 350px;
+    background-position: right 400px;
+}
 
 .know_our_global_community_item {
     width: 50%;
@@ -133,7 +144,7 @@ body {
 .contact_us h1 {
     text-align: center;
     font-size: 60px;
-    margin-top: 10%;
+
 }
 
 .contact_us_item {
