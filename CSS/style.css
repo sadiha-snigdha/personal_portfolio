@@ -12,6 +12,7 @@ body {
 .mission_2022_item {
     width: 50%;
     padding-left: 10%;
+    margin-top: 5%;
 }
 
 .mission_2022 h1 {
@@ -46,7 +47,7 @@ body {
 
 
 .mission_2022_item img {
-    width: 85%;
+    width: 70%;
 }
 
 .my_mission {
@@ -103,7 +104,7 @@ body {
 }
 
 .develop_without_limit_item img {
-    width: 85%;
+    width: 70%;
 }
 
 .develop_without_limit_item h1 {
@@ -130,7 +131,7 @@ body {
 }
 
 .know_our_global_community_item img {
-    width: 85%;
+    width: 70%;
 }
 
 .know_our_global_community_item h1 {
