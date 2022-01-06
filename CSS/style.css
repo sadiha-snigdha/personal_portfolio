@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    padding: 5%;
+}
+
+.mission_2022 {
+    display: flex;
+}
+
+.mission_2022_item {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.mission_2022 h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 70px;
+    padding-left: 3%;
+}
+
+#second_h1 {
+    color: orange;
+}
+
+.mission_2022_heading {
+    border-left: 5px solid #fd5757;
+    border-radius: 5px;
+}
+
+.mission_2022_item p {
+    font-size: 20px;
+    padding-right: 40%;
+    text-align: justify;
+
+}
+
+.explore_now_button {
+    text-decoration: none;
+    color: white;
+    background-color: #fd5757;
+    padding: 8px 40px;
+    border-radius: 5px;
+}
+
+
+.mission_2022_item img {
+    width: 85%;
+}
