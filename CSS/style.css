@@ -4,9 +4,10 @@ body {
     margin: 0;
 }
 
-.mission_2022 {
+.flex_container {
     display: flex;
 }
+
 
 .mission_2022_item {
     width: 50%;
@@ -62,9 +63,6 @@ body {
     color: orange;
 }
 
-.my_mission_item {
-    display: flex;
-}
 
 .image_resize {
     height: 150px;
@@ -96,7 +94,6 @@ body {
 }
 
 .develop_without_limit {
-    display: flex;
     padding: 5% 10%;
 }
 
@@ -121,10 +118,6 @@ body {
     border-radius: 5px;
 }
 
-.know_our_global_community {
-    display: flex;
-
-}
 
 .know_our_global_community_item {
     width: 50%;
