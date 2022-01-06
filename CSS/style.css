@@ -38,7 +38,7 @@ body {
     text-decoration: none;
     color: white;
     background-color: #fd5757;
-    padding: 8px 40px;
+    padding: 10px 40px;
     border-radius: 5px;
 }
 
@@ -63,7 +63,6 @@ body {
 
 .my_mission_item {
     display: flex;
-
 }
 
 .image_resize {
@@ -74,17 +73,72 @@ body {
 
 .mission {
     background-color: #e7f8ff;
+    width: 33.33%;
     padding: 5%;
+    border-radius: 10%;
 }
 
 .vision {
     background-color: #ffdce6;
+    width: 33.33%;
     padding: 5%;
-
+    border-radius: 10%;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 .goals {
     background-color: #f5dec1;
+    width: 33.33%;
     padding: 5%;
+    border-radius: 10%;
+}
 
+.develop_without_limit {
+    display: flex;
+    padding: 5% 10%;
+}
+
+.develop_without_limit_item {
+    width: 50%;
+
+}
+
+.develop_without_limit_item img {
+    width: 85%;
+}
+
+.develop_without_limit_item h1 {
+    font-size: 40px;
+}
+
+.read_the_doc_button {
+    text-decoration: none;
+    color: white;
+    background-color: #fd5757;
+    padding: 10px 45px;
+    border-radius: 5px;
+}
+
+.know_our_global_community {
+    display: flex;
+
+}
+
+.know_our_global_community_item {
+    width: 50%;
+    padding-left: 10%;
+    margin-top: 5%;
+}
+
+.know_our_global_community_item_left {
+    margin-right: 15%;
+}
+
+.know_our_global_community_item img {
+    width: 85%;
+}
+
+.know_our_global_community_item h1 {
+    font-size: 40px;
 }
