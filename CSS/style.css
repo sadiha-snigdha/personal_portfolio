@@ -46,3 +46,13 @@ body {
 .mission_2022_item img {
     width: 85%;
 }
+
+
+.my_mission h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.my_mission h1 span {
+    color: orange;
+}
