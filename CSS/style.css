@@ -8,6 +8,14 @@ body {
     display: flex;
 }
 
+.button {
+    text-decoration: none;
+    color: white;
+    background-color: #fd5757;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
 
 .mission_2022_item {
     width: 50%;
@@ -35,14 +43,6 @@ body {
     padding-right: 40%;
     text-align: justify;
 
-}
-
-.explore_now_button {
-    text-decoration: none;
-    color: white;
-    background-color: #fd5757;
-    padding: 10px 40px;
-    border-radius: 5px;
 }
 
 
@@ -111,14 +111,6 @@ body {
     font-size: 40px;
 }
 
-.read_the_doc_button {
-    text-decoration: none;
-    color: white;
-    background-color: #fd5757;
-    padding: 10px 45px;
-    border-radius: 5px;
-}
-
 
 .know_our_global_community_item {
     width: 50%;
@@ -154,11 +146,7 @@ body {
 }
 
 .contact_us_button {
-    color: white;
-    background-color: #fd5757;
     border: 0;
-    padding: 10px 45px;
-    border-radius: 5px;
     margin: 3% 50%;
 }
 
