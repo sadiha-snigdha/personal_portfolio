@@ -47,6 +47,10 @@ body {
     width: 85%;
 }
 
+.my_mission {
+    padding: 10%;
+}
+
 
 .my_mission h1 {
     text-align: center;
@@ -55,4 +59,32 @@ body {
 
 .my_mission h1 span {
     color: orange;
+}
+
+.my_mission_item {
+    display: flex;
+
+}
+
+.image_resize {
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.mission {
+    background-color: #e7f8ff;
+    padding: 5%;
+}
+
+.vision {
+    background-color: #ffdce6;
+    padding: 5%;
+
+}
+
+.goals {
+    background-color: #f5dec1;
+    padding: 5%;
+
 }
